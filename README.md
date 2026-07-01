@@ -340,16 +340,3 @@ This project demonstrates:
 
 ---
 
-# 👩‍💻 Author
-
-**Shreya Revanakar**
-
-Electronics and Communication Engineering Student
-
----
-
-# 📜 License
-
-This project is intended for **educational and academic purposes**.
-
-Feel free to use and modify it for learning.
